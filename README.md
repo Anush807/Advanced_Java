@@ -181,19 +181,19 @@ ___
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
-https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/FactorialServlet/Fact.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp6_JavaServlet/Factorial/Fact.png
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
-https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/CookieServlet/6b1.png                                       
-https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/CookieServlet/6b.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp6_JavaServlet/Cookie/6a.png                                       
+https://github.com/Anush807/Advanced_Java/blob/main/Exp6_JavaServlet/Cookie/6a1.png
 
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.
-https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/PrimeServlet/Prime.png                                   
-https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/PrimeServlet/Prime1.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp6_JavaServlet/Prime/Prime1.png                                   
+https://github.com/Anush807/Advanced_Java/blob/main/Exp6_JavaServlet/Prime/Prime.png
 
 ___
 
@@ -201,13 +201,15 @@ ___
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.                                                                   
-https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/SessionManagement/swansession.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp7_JavaServlet/Session/SessionA.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp7_JavaServlet/Session/SessionB.png
 
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
-it has to go to show the active cookie list when you press the link go to the active cookie list                   
-https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/CookieManagement/swancookie.png
+it has to go to show the active cookie list when you press the link go to the active cookie list  
+https://github.com/Anush807/Advanced_Java/blob/main/Exp7_JavaServlet/Cookie/CookieA.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp7_JavaServlet/Cookie/CookieB.png
 
 
 ___
@@ -216,13 +218,13 @@ ___
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
 JSP to get the fields and display the results respectively                                             
-https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8A/8a.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp8_JDBC/8A/8a.png
 
 
 8b. Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
-https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8B/scpffee.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp8_JDBC/8B/8b.png
 
 
 
@@ -230,14 +232,12 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8B/scpffee.png
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively
-https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8C/swan8C.png
-
+https://github.com/Anush807/Advanced_Java/blob/main/Exp8_JDBC/8C/8CA.png
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectively
-
-https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8D/swan8d.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp8_JDBC/8D/8DA.png
 
 
 
@@ -251,27 +251,27 @@ ___
 9a. Read all the existing records from the table coffee which is from the database test and delete
 an existing coffee product from the table with its id and display the rest of the records using
 HTML and JSP to get the field and display the results respectively                       
-https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9A/9aswan.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp9_JDBC/9A/9aa.png
 
 
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
 results respectively
-https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9B/9bSwan.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp9_JDBC/9B/9b.png
 
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively
-https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9C/9cswan.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp9_JDBC/9C/9CA.png
 
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively
 
-https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9D/swan9d.png
+https://github.com/Anush807/Advanced_Java/blob/main/Exp9_JDBC/9D/9DA.png
 
 
 
